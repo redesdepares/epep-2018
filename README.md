@@ -5,12 +5,15 @@ Este repositorio es usado para almacenar todo el material gráfico producido par
 
 Info sobre el evento en: http://epep.com.ar/08-resistencia/
 
+## Descripción
 
-## Organizadores
+El concepto gráfico se basa en el contorno de la provincia de Chaco, que contiene las letras de la sigla del evento y se emplean los colores de la bandera de Chaco para las letras. Se contruye sobre una retícula triangular.
 
-* Escuela de Gestión Social "Heroes Latinoamericanos" - http://mapa.reevo.org/reports/view/1027
-* Reevo - http://reevo.org
-  
+
+## Autores
+
+* Realizado por Magna y Franco
+
 ## Licencia
 
 Todo el material se pública para la licencia "Artistic License 2.0", excepto:
